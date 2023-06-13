@@ -1,0 +1,1 @@
+var mainnet_url = "https://mainnet.infura.io/v3/7dcc54ef0fd743bb808a01f7b421a89c"
